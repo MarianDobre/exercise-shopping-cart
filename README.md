@@ -27,6 +27,10 @@ The following interface was used:
 Resources
 ---------
 
+In order to install phpunit you have to run command
+
+    $ composer install
+
 You can run the unit tests with the following command:
 
     $ phpunit tests/
